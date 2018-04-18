@@ -1,0 +1,23 @@
+{
+  "name": "j-dat-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "unchosen.aus@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jashepp/jdatapi"
+  },
+  "dependencies": {
+    "dat-dns": "^2.0.0",
+    "dat-storage": "git+https://github.com/datproject/dat-storage.git",
+    "fs-extra": "^5.0.0",
+    "hyperdiscovery": "^7.0.0",
+    "hyperdrive": "^9.12.2",
+    "parse-dat-url": "^3.0.1",
+    "random-access-file": "^2.0.1",
+    "random-access-memory": "^2.4.0",
+    "underscore": "^1.8.3"
+  }
+}
